@@ -24,3 +24,9 @@ environments too, with any Emacs version >= 23. If not, please file an
 issue on the github project: https://github.com/purcell/emacs.d
 
 -Steve Purcell
+
+========================================================================
+
+This configuration is slightly modified from purcell/emacs.d
+
+Linghui Chen
