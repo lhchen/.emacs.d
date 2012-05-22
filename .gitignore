@@ -19,4 +19,5 @@ cookies
 \#*
 /elpa
 site-lisp/package/
+site-lisp/cedet-1.1/
 /swank
