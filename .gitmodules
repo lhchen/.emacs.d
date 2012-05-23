@@ -1,9 +1,6 @@
 [submodule "site-lisp/auto-complete"]
 	path = site-lisp/auto-complete
 	url = https://github.com/purcell/auto-complete.git
-[submodule "site-lisp/auctex"]
-	path = site-lisp/auctex
-	url = https://github.com/emacsmirror/auctex.git
 [submodule "site-lisp/smarty-mode"]
 	path = site-lisp/smarty-mode
 	url = https://github.com/emacsmirror/smarty-mode.git
